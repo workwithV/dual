@@ -1,2 +1,2 @@
 # dual
-dual
+first project on Github
